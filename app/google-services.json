@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "1025511903492",
+    "firebase_url": "https://mochashi.firebaseio.com",
+    "project_id": "mochashi",
+    "storage_bucket": "mochashi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025511903492:android:cd1f5d97cae0cd4eca0051",
+        "android_client_info": {
+          "package_name": "com.tetraval.mochashiadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025511903492-rtpqn7i4m00paafnv9tm4t9n00mdprqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tetraval.mochashiadmin",
+            "certificate_hash": "cba50609f909a73615fec2c99b47b4751394d4a2"
+          }
+        },
+        {
+          "client_id": "1025511903492-f4njbjpmkp55gff1q83k6nss6ecnh3rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9T3jsJAuPFh9rwqexk8uszs_4oVYd6e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025511903492-f4njbjpmkp55gff1q83k6nss6ecnh3rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025511903492:android:1bbb15f455418514ca0051",
+        "android_client_info": {
+          "package_name": "com.tetraval.mochashicustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025511903492-0d66hub93s9tvd0e4vnuop3k0pjepcuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tetraval.mochashicustomer",
+            "certificate_hash": "cba50609f909a73615fec2c99b47b4751394d4a2"
+          }
+        },
+        {
+          "client_id": "1025511903492-f4njbjpmkp55gff1q83k6nss6ecnh3rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9T3jsJAuPFh9rwqexk8uszs_4oVYd6e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025511903492-f4njbjpmkp55gff1q83k6nss6ecnh3rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025511903492:android:b1f6bcea8afe53b4ca0051",
+        "android_client_info": {
+          "package_name": "com.tetraval.mochashidelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025511903492-v7u33uha6tneqg7mhao30693u9mctkvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tetraval.mochashidelivery",
+            "certificate_hash": "cba50609f909a73615fec2c99b47b4751394d4a2"
+          }
+        },
+        {
+          "client_id": "1025511903492-f4njbjpmkp55gff1q83k6nss6ecnh3rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9T3jsJAuPFh9rwqexk8uszs_4oVYd6e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025511903492-f4njbjpmkp55gff1q83k6nss6ecnh3rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025511903492:android:396525ea619d2a44ca0051",
+        "android_client_info": {
+          "package_name": "com.tetraval.mochashivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025511903492-0sa5n7ato9qv8i17ekm6r6l8r6v62peq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tetraval.mochashivendor",
+            "certificate_hash": "cba50609f909a73615fec2c99b47b4751394d4a2"
+          }
+        },
+        {
+          "client_id": "1025511903492-f4njbjpmkp55gff1q83k6nss6ecnh3rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9T3jsJAuPFh9rwqexk8uszs_4oVYd6e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025511903492-f4njbjpmkp55gff1q83k6nss6ecnh3rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
